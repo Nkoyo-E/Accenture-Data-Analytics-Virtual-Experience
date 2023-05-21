@@ -16,3 +16,5 @@ How I tackled the problem:
 4   Data Analysis.
 5.  Generate Insights to unlock business decisions.
 6.  Present to the client
+
+Interactive link to the dashboard: [Social Buzz](https://app.powerbi.com/view?r=eyJrIjoiNGViNjU1MjctODJlMy00MTljLWIzMTktNjg0N2FkMGQzYjVkIiwidCI6IjMwMzlmZTYwLTIzNjAtNDRmOC04NjY1LTdjNGY1ZWVlMGM2YiJ9)
